@@ -1,0 +1,8 @@
+{
+  "name": "A Plateia Decide — Palestra & Estúdio Interativo",
+  "description": "Plataforma completa para criação, preparação e apresentação da palestra cinematográfica 'A Plateia Decide' sobre bullying e empatia para estudantes de 11 a 15 anos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
